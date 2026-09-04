@@ -1,5 +1,7 @@
 # Waline Example
 
+Originally developed by [@EthanH3514](https://github.com/EthanH3514) and later contributed to and maintained by [ShuOSC](https://github.com/shuosc).
+
 This directory is a brief example of a [Waline](https://waline.js.org/) app that can be deployed with Vercel and zero configuration.
 
 ## Deploy Your Own
