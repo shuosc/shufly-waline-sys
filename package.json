@@ -1,8 +1,15 @@
 {
-  "name": "template",
-  "version": "0.0.1",
+  "name": "@shuosc/shufly-waline-sys",
+  "version": "1.0.0",
   "private": true,
+  "description": "Waline backend for SHUFly",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "check": "node --check index.cjs"
+  },
   "dependencies": {
-    "@waline/vercel": "latest"
+    "@waline/vercel": "1.41.5"
   }
 }
