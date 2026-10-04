@@ -10,6 +10,6 @@
     "check": "node --check index.cjs"
   },
   "dependencies": {
-    "@waline/vercel": "1.41.5"
+    "@waline/vercel": "1.43.4"
   }
 }
